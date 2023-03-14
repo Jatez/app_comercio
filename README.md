@@ -12,7 +12,7 @@ El proyecto se propone como solución al reto de la aplicación comercio
 
 ## **Tecnología**
 
-<img src="https://elblogdecodigo.files.wordpress.com/2014/12/java_logo.png" width="100" height="100">
+<img src="https://elblogdecodigo.files.wordpress.com/2014/12/java_logo.png" width="150" height="100">
 
 
 ## **Diagrama de clases implementado**:
